@@ -1,0 +1,7 @@
+movie,genre,rating,day,holiday,temperature,shows,bookings
+MovieA,Action,8.2,Weekend,1,30,5,450
+MovieB,Drama,7.5,Weekday,0,28,3,150
+MovieC,Comedy,8.0,Weekend,1,32,6,500
+MovieD,Horror,6.8,Weekday,0,27,2,120
+MovieE,Action,9.0,Weekend,1,31,7,600
+MovieF,Romance,7.2,Weekday,0,29,3,200
